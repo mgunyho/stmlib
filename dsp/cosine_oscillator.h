@@ -32,7 +32,8 @@
 
 #include "stmlib/stmlib.h"
 
-#include <cmath>
+#define _USE_MATH_DEFINES
+#include <math.h>
 
 namespace stmlib {
 
